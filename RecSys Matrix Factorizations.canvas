@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"106f1db76f8dda0b","x":-235,"y":-211,"width":435,"height":551,"type":"text","text":"### UV factorization\n$$ $$\n"}
+		{"id":"106f1db76f8dda0b","x":-235,"y":-211,"width":435,"height":551,"type":"text","text":"### UV factorization\n$$\\sum_{u,i \\in \\Om} \\to \\min_{U,V}$$"}
 	],
 	"edges":[]
 }
