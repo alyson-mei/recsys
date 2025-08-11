@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"106f1db76f8dda0b","x":-235,"y":-211,"width":435,"height":551,"type":"text","text":"### UV factorization\n$R: (m, n)$\n- $m$ - number of users\n- n - number of items\n- \n$$R \\approx UV^T $$$$\\sum_{u,i \\in \\Omega} (R_{ui}-U_u\n\\cdot V_i) + \\lambda (||U||^2_F + ||V||^2_F) \\to \\min_{U,V}$$\n\n"}
+		{"id":"106f1db76f8dda0b","x":-235,"y":-211,"width":435,"height":551,"type":"text","text":"### UV factorization\n$R: (m, n)$ - user-\n- $m$ - number of users\n- n - number of items\n- \n$$R \\approx UV^T $$$$\\sum_{u,i \\in \\Omega} (R_{ui}-U_u\n\\cdot V_i) + \\lambda (||U||^2_F + ||V||^2_F) \\to \\min_{U,V}$$\n\n"}
 	],
 	"edges":[]
 }
